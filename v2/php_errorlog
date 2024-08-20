@@ -1,0 +1,311 @@
+[26-May-2023 13:03:22 UTC] PHP Parse error:  syntax error, unexpected '$get_email' (T_VARIABLE) in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 8
+[26-May-2023 13:03:25 UTC] PHP Parse error:  syntax error, unexpected '$get_email' (T_VARIABLE) in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 8
+[26-May-2023 13:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 2
+[26-May-2023 13:12:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 28
+[26-May-2023 13:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 19
+[26-May-2023 13:15:48 UTC] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 19
+[26-May-2023 14:16:34 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/customer/www/acelearning.center/public_html/testing/certificate_submit.php on line 26
+[06-Jun-2023 10:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[06-Jun-2023 10:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/customer/www/acelearning.center/public_html/testing.php:1005
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/testing.php on line 1005
+[03-Aug-2023 04:44:38 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:39 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:40 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:41 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:41 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:41 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:42 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:42 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:42 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:46 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[03-Aug-2023 04:44:47 UTC] PHP Fatal error:  require(): Failed opening required 'path_to_phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/acelearning.center/public_html/v2/certificate_submit.php on line 3
+[04-Aug-2023 10:41:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 63
+[04-Aug-2023 11:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 28
+[04-Aug-2023 11:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 24
+[04-Aug-2023 11:26:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 22
+[04-Aug-2023 11:26:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 22
+[04-Aug-2023 11:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 22
+[04-Aug-2023 11:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validateEmail() in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 22
+[04-Aug-2023 12:46:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:47:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62
+[04-Aug-2023 12:48:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/acelearning.center/public_html/v2/certificate_submit2.php on line 62

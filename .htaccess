@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks
+    RewriteEngine On
+
+    # Rewrite /faqs to /faqs.php
+    RewriteRule ^faqs$ faqs.php [L]
+
+    # Rewrite /resource to /resource.php
+    RewriteRule ^resource$ resource.php [L]
+
+    # Rewrite /all-about-medical-coding to /all-about-medical-coding.php
+    RewriteRule ^all-about-medical-coding$ all-about-medical-coding.php [L]
+
+    # Rewrite /privacy-policy to /privacy-policy.php
+    RewriteRule ^privacy-policy$ privacy-policy.php [L]
+
+    ErrorDocument 404 /404.php
+
+</IfModule>
